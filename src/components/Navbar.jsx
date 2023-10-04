@@ -19,7 +19,7 @@ const Navbar = () => {
 
   // Define your navigation links
   const links = [
-    { to: '/', label: 'Hoome' },
+    { to: '/', label: 'Home' },
     { to: '/videos', label: 'Videos' },
     { to: '/lessons', label: 'Lessons' },
     { to: '/merch', label: 'Merch' },

@@ -30,7 +30,7 @@ const FAQs = () => {
     return (
         <div className='bg-[#f2f2f2] h-auto flex flex-col justify-center items-center lg:mt-20 md:mt-10 sm:mt-10 relative px-1 md:px-10'>
         <h1 className="text-center mt-20 mb-16 text-5xl">FAQs</h1>
-        <div className='list lg:w-[1000px] mx-5 md:w-full sm:w-full sm:mx-0 mb-32 sx:mb-6'>
+        <div className='list lg:w-[1000px] mx-5 md:w-full sm:w-full sm:mx-6 mb-32 sx:mb-6'>
           {list.map((item, key) => (
             <Accordion key={key} datas={item} />
           ))}

@@ -4,7 +4,7 @@ import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className="mx-auto max-w-[1400px] relative z-0 h-100vh py-[120px]">
+    <div className="mx-auto max-w-[1400px] relative z-0 h-100vh md:py-32 xsm:py-16">
       <div className='lg:px-20 md:flex px-5'>
         <div className='lg:w-[500px] lg:min-w-[460px] xsm:w-auto'>
           <img className="w-full h-auto" src={guitar_image} alt="/" />

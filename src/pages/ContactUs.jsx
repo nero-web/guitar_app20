@@ -22,7 +22,7 @@ const ContactUs = () => {
 
 
   return (
-    <div className='bg-[#f2f2f2] py-[120px]'>
+    <div className='bg-[#f2f2f2] md:py-32 xsm:py-16'>
       <div className='px-5 max-w-[1260px] w-full mx-auto min-h-[20px]'>
         <div className='flex md:flex-row justify-between items-start xsm:flex-col gap-5'>
           <div className='max-w-[305px] w-full '>

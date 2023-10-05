@@ -38,7 +38,7 @@ const Videos = () => {
   
 
   return (
-    <div className='bg-[#f2f2f2] h-auto w-full flex flex-col items-center pt-32 pb-32'>
+    <div className='bg-[#f2f2f2] h-auto w-full flex flex-col items-center md:py-32 xsm:py-16'>
       <div className='px-5 w-full flex flex-col max-w-[1400px]'>
         <h1 className='mt-4 md:mt-0 lg:text-5xl sm:text-3xl font-semibold leading-6 text-center'>
           Watch Videos by

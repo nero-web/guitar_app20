@@ -43,6 +43,7 @@ const Videos = () => {
         <h1 className='mt-4 md:mt-0 lg:text-5xl sm:text-3xl font-semibold leading-6 text-center'>
           Watch Videos by
           <br/>
+          <br />
           Guitarmalade
         </h1>
         <div className='mt-20 grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-10 grid-rows-auto'>

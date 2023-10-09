@@ -54,7 +54,7 @@ const Lessons = () => {
                 className='w-full h-[70%] bg-cover bg-center'
                 src={card.src}
                 alt=""></img>
-              <div className='ml-5 mt-5 px-4 py-1.5 bg-white font-semibold leading-6 tracking-wide max-w-[150px] text-center shadow-2xl flex flex-row cursor-pointer text-red-600 text-xl'>
+              <div className='ml-5 mt-5 px-4 py-1.5 bg-white font-semibold leading-6 tracking-wide max-w-[150px] text-center flex flex-row cursor-pointer text-red-600 text-xl'>
                 <img className="w-[24px] h-[24px] me-4" alt="" src={logoprice}/>
                 {card.price}
               </div>

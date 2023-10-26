@@ -13,7 +13,7 @@ import ContactUs from "./pages/ContactUs";
 function App() {
   return (
     <div className='App'>
-      <Router>
+      <Router basename="/guitar_app20">
           <Navbar/>
         <Routes>
           <Route path="/" element={<Home/>}/>

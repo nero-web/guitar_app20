@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guitar_app20/static/css/main.a2bf6dd3.css",
-    "main.js": "/guitar_app20/static/js/main.1a0d7b36.js",
+    "main.js": "/guitar_app20/static/js/main.c9d15753.js",
     "static/media/sticker.jpg": "/guitar_app20/static/media/sticker.2dda9005e3a9d877eb7b.jpg",
     "static/media/pic1.jpg": "/guitar_app20/static/media/pic1.5ad1727c2e8a01c45a91.jpg",
     "static/media/Testimonials redo 4-p-800.jpg": "/guitar_app20/static/media/Testimonials redo 4-p-800.6eeef2847030d0dff569.jpg",
@@ -26,10 +26,10 @@
     "static/media/slick.woff": "/guitar_app20/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/guitar_app20/index.html",
     "main.a2bf6dd3.css.map": "/guitar_app20/static/css/main.a2bf6dd3.css.map",
-    "main.1a0d7b36.js.map": "/guitar_app20/static/js/main.1a0d7b36.js.map"
+    "main.c9d15753.js.map": "/guitar_app20/static/js/main.c9d15753.js.map"
   },
   "entrypoints": [
     "static/css/main.a2bf6dd3.css",
-    "static/js/main.1a0d7b36.js"
+    "static/js/main.c9d15753.js"
   ]
 }
